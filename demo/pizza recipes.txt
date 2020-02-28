@@ -1,0 +1,875 @@
+{publisher: "101 Cookbooks", f2f_url: "http://food2fork.com/view/47746", ingredients: Array(6), source_url: "http://www.101cookbooks.com/archives/001199.html", recipe_id: "47746", …}
+cookingTime: 30
+f2f_url: "http://food2fork.com/view/47746"
+image_url: "http://static.food2fork.com/best_pizza_dough_recipe1b20.jpg"
+ingredients: Array(6)
+0: {measurment: "cups", count: 4.5, text: "unbleached high-gluten, bread, or all-purpose flour, chilled"}
+1: {measurment: "tsps", count: 1.75, text: "salt"}
+2: {measurment: "tsp", count: 1, text: "instant yeast"}
+3: {measurment: "cup", count: 0.25, text: "olive oil (optional)"}
+4: {measurment: "cups", count: 1.75, text: "water, ice cold (40f)"}
+5: {text: "semolina flour or cornmeal for dusting"}
+length: 6
+__proto__: Array(0)
+isLiked: true
+publisher: "101 Cookbooks"
+publisher_url: "http://www.101cookbooks.com"
+recipe_id: "47746"
+servings: 2
+social_rank: 100
+source_url: "http://www.101cookbooks.com/archives/001199.html"
+title: "Best Pizza Dough Ever"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/46956", ingredients: Array(17), source_url: "http://thepioneerwoman.com/cooking/2012/01/fruit-pizza/", recipe_id: "46956", …}
+cookingTime: 85
+f2f_url: "http://food2fork.com/view/46956"
+image_url: "http://static.food2fork.com/fruitpizza9a19.jpg"
+ingredients: Array(17)
+0: {measurment: "cup", count: "1.333", text: "shortening"}
+1: {measurment: "cup", count: 1.5, text: "sugar"}
+2: {measurment: "tsp", count: 1, text: "orange zest"}
+3: {measurment: "tsp", count: 1, text: "vanilla"}
+4: {count: 2, text: "whole eggs"}
+5: {measurment: "tsps", count: 8, text: "whole milk"}
+6: {measurment: "cups", count: 4, text: "all-purpose flour"}
+7: {measurment: "tsps", count: 3, text: "baking powder"}
+8: {measurment: "tsp", count: 0.5, text: "salt"}
+9: {count: 2, text: "jars  marshmallow creme"}
+10: {count: 2, text: "packages  cream cheese"}
+11: {text: "peaches"}
+12: {text: "kiwi fruit"}
+13: {text: "blueberries"}
+14: {text: "pears"}
+15: {text: "raspberries"}
+16: {text: "other fruit optional"}
+length: 17
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "46956"
+servings: 2
+social_rank: 100
+source_url: "http://thepioneerwoman.com/cooking/2012/01/fruit-pizza/"
+title: "Deep Dish Fruit Pizza"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35477", ingredients: Array(11), source_url: "http://www.closetcooking.com/2011/03/pizza-dip.html", recipe_id: "35477", …}
+cookingTime: 55
+f2f_url: "http://food2fork.com/view/35477"
+image_url: "http://static.food2fork.com/Pizza2BDip2B12B500c4c0a26c.jpg"
+ingredients: Array(11)
+0: {measurment: "oz", count: 4, text: "cream cheese, room temperature"}
+1: {measurment: "cup", count: 0.25, text: "sour cream"}
+2: {measurment: "cup", count: 0.25, text: "mayonnaise"}
+3: {measurment: "cup", count: 0.5, text: "mozzarella, grated"}
+4: {measurment: "cup", count: 0.25, text: "parmigiano reggiano , grated"}
+5: {measurment: "cup", count: 1, text: "pizza sauce"}
+6: {measurment: "cup", count: 0.5, text: "mozzarella, shredded/grated"}
+7: {measurment: "cup", count: 0.25, text: "parmigiano reggiano , grated"}
+8: {measurment: "oz", count: 2, text: "pepperoni, sliced"}
+9: {measurment: "tbsps", count: 2, text: "green pepper, sliced"}
+10: {measurment: "tbsps", count: 2, text: "black olives, sliced"}
+length: 11
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35477"
+servings: 2
+social_rank: 99.99999999999994
+source_url: "http://www.closetcooking.com/2011/03/pizza-dip.html"
+title: "Pizza Dip"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/41470", ingredients: Array(10), source_url: "http://www.closetcooking.com/2013/02/cauliflower-pizza-crust-with-bbq.html", recipe_id: "41470", …}
+cookingTime: 50
+f2f_url: "http://food2fork.com/view/41470"
+image_url: "http://static.food2fork.com/BBQChickenPizzawithCauliflowerCrust5004699695624ce.jpg"
+ingredients: Array(10)
+0: {count: 1, text: "medium head cauliflower, cut into florets"}
+1: {count: 1, text: "egg"}
+2: {measurment: "cup", count: 0.5, text: "mozzarella, shredded"}
+3: {measurment: "tsp", count: 1, text: "oregano or italian seasoning blend"}
+4: {text: "salt and pepper to taste"}
+5: {measurment: "cup", count: 1, text: "chicken, cooked and shredded"}
+6: {measurment: "cup", count: 0.5, text: "barbecue sauce"}
+7: {measurment: "cup", count: 0.75, text: "mozzarella, shredded"}
+8: {text: "red onion to taste, thinly sliced"}
+9: {text: "fresh cilantro to taste"}
+length: 10
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "41470"
+servings: 2
+social_rank: 99.9999999999994
+source_url: "http://www.closetcooking.com/2013/02/cauliflower-pizza-crust-with-bbq.html"
+title: "Cauliflower Pizza Crust (with BBQ Chicken Pizza)"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35478", ingredients: Array(14), source_url: "http://www.closetcooking.com/2012/11/pizza-quesadillas-aka-pizzadillas.html", recipe_id: "35478", …}
+cookingTime: 70
+f2f_url: "http://food2fork.com/view/35478"
+image_url: "http://static.food2fork.com/Pizza2BQuesadillas2B2528aka2BPizzadillas25292B5002B834037bf306b.jpg"
+ingredients: Array(14)
+0: {count: 2, text: "tortilla"}
+1: {measurment: "cup", count: 1, text: "mozzarella, shredded"}
+2: {measurment: "tbsps", count: 3, text: "pizza sauce"}
+3: {count: 16, text: "slices pepperoni"}
+4: {measurment: "tbsp", count: 1, text: "sliced black olives"}
+5: {measurment: "tbsps", count: 3, text: "pizza sauce"}
+6: {measurment: "cup", count: 0.5, text: "mozzarella, shredded"}
+7: {count: 3, text: "slices pepperoni"}
+8: {measurment: "tbsp", count: 1, text: "sliced black olives"}
+9: {count: 2, text: "tortilla"}
+10: {measurment: "cup", count: 1, text: "mozzarella, shredded"}
+11: {measurment: "tbsps", count: 4, text: "pizza sauce"}
+12: {count: 16, text: "slices pepperoni"}
+13: {measurment: "tbsp", count: 1, text: "sliced black olives"}
+length: 14
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35478"
+servings: 2
+social_rank: 99.99999999999835
+source_url: "http://www.closetcooking.com/2012/11/pizza-quesadillas-aka-pizzadillas.html"
+title: "Pizza Quesadillas (aka Pizzadillas)"
+__proto__: Object
+
+
+{publisher: "Two Peas and Their Pod", f2f_url: "http://food2fork.com/view/54454", ingredients: Array(10), source_url: "http://www.twopeasandtheirpod.com/sweet-potato-kale-pizza-with-rosemary-red-onion/", recipe_id: "54454", …}
+cookingTime: 50
+f2f_url: "http://food2fork.com/view/54454"
+image_url: "http://static.food2fork.com/sweetpotatokalepizza2c6db.jpg"
+ingredients: Array(10)
+0: {text: "your favorite pizza dough-we used this"}
+1: {text: "pizza dough recipe"}
+2: {count: 1, text: "large sweet potato, thinly sliced, about 1/4 inch thick"}
+3: {count: 0.5, text: "red onion, sliced"}
+4: {measurment: "tbsp", count: 1.5, text: "olive oil, divided"}
+5: {text: "salt and pepper, for seasoning potato slices and onion"}
+6: {measurment: "cups", count: 1.5, text: "mozzarella cheese"}
+7: {measurment: "cups", count: 1.5, text: "chopped kale"}
+8: {measurment: "tbsp", count: 1, text: "balsamic vinegar"}
+9: {measurment: "tsp", count: 1, text: ", freshly chopped rosemary"}
+length: 10
+__proto__: Array(0)
+isLiked: false
+publisher: "Two Peas and Their Pod"
+publisher_url: "http://www.twopeasandtheirpod.com"
+recipe_id: "54454"
+servings: 2
+social_rank: 99.9999999991673
+source_url: "http://www.twopeasandtheirpod.com/sweet-potato-kale-pizza-with-rosemary-red-onion/"
+title: "Sweet Potato Kale Pizza with Rosemary & Red Onion"
+__proto__: Object
+
+
+{publisher: "My Baking Addiction", f2f_url: "http://food2fork.com/view/2ec050", ingredients: Array(11), source_url: "http://www.mybakingaddiction.com/pizza-dip/", recipe_id: "2ec050", …}
+cookingTime: 55
+f2f_url: "http://food2fork.com/view/2ec050"
+image_url: "http://static.food2fork.com/PizzaDip21of14f05.jpg"
+ingredients: Array(11)
+0: {measurment: "oz", count: 8, text: "cream cheese, softened"}
+1: {measurment: "tsp", count: 0.25, text: "garlic powder"}
+2: {measurment: "tsp", text: "dried oregano"}
+3: {measurment: "tsp", text: "dried parsley"}
+4: {measurment: "tsp", text: "dried basil"}
+5: {measurment: "cup", count: 1, text: "shredded mozzarella cheese"}
+6: {measurment: "cup", count: 1, text: "parmesan cheese"}
+7: {measurment: "cup", count: 1, text: "pizza sauce"}
+8: {measurment: "cup", count: 0.25, text: "chopped green bell pepper"}
+9: {measurment: "cup", count: 0.25, text: "chopped onion"}
+10: {measurment: "oz", count: 2, text: "sliced pepperoni"}
+length: 11
+__proto__: Array(0)
+isLiked: false
+publisher: "My Baking Addiction"
+publisher_url: "http://www.mybakingaddiction.com"
+recipe_id: "2ec050"
+servings: 2
+social_rank: 99.99999999826605
+source_url: "http://www.mybakingaddiction.com/pizza-dip/"
+title: "Pizza Dip"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/6fab1c", ingredients: Array(9), source_url: "http://thepioneerwoman.com/cooking/2013/04/pizza-potato-skins/", recipe_id: "6fab1c", …}
+cookingTime: 45
+f2f_url: "http://food2fork.com/view/6fab1c"
+image_url: "http://static.food2fork.com/pizza3464.jpg"
+ingredients: Array(9)
+0: {count: 8, text: "whole small russet potatoes"}
+1: {text: "canola oil"}
+2: {text: "butter, melted"}
+3: {text: "kosher salt"}
+4: {text: "jarred marinara or pizza sauce"}
+5: {text: "grated mozzarella cheese"}
+6: {text: "diced pepperoni"}
+7: {text: "minced fresh parsley"}
+8: {text: "miscellaneous pizza toppings: cooked sausage, cook…nion, diced mushrooms, diced canadian bacon, etc."}
+length: 9
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "6fab1c"
+servings: 2
+social_rank: 99.99999999760887
+source_url: "http://thepioneerwoman.com/cooking/2013/04/pizza-potato-skins/"
+title: "Pizza Potato Skins"
+__proto__: Object
+
+
+{publisher: "Bon Appetit", f2f_url: "http://food2fork.com/view/49346", ingredients: Array(3), source_url: "http://www.bonappetit.com/recipes/2012/03/no-knead-pizza-dough", recipe_id: "49346", …}
+cookingTime: 15
+f2f_url: "http://food2fork.com/view/49346"
+image_url: "http://static.food2fork.com/nokneadpizzadoughlahey6461467.jpg"
+ingredients: Array(3)
+0: {measurment: "cups", count: 7.5, text: "all-purpose flour  plus more for shaping dough"}
+1: {measurment: "tsps", count: 4, text: "fine sea salt"}
+2: {measurment: "tsp", count: 0.5, text: "active dry yeast"}
+length: 3
+__proto__: Array(0)
+isLiked: false
+publisher: "Bon Appetit"
+publisher_url: "http://www.bonappetit.com"
+recipe_id: "49346"
+servings: 2
+social_rank: 99.99999999743466
+source_url: "http://www.bonappetit.com/recipes/2012/03/no-knead-pizza-dough"
+title: "No-Knead Pizza Dough"
+__proto__: Object
+
+
+{publisher: "Simply Recipes", f2f_url: "http://food2fork.com/view/36453", ingredients: Array(22), source_url: "http://www.simplyrecipes.com/recipes/homemade_pizza/", recipe_id: "36453", …}
+cookingTime: 110
+f2f_url: "http://food2fork.com/view/36453"
+image_url: "http://static.food2fork.com/pizza292x2007a259a79.jpg"
+ingredients: Array(22)
+0: {measurment: "cups", count: 1.5, text: "warm water"}
+1: {count: 1, text: "package  of active dry yeast (check the expiration date on the package)"}
+2: {measurment: "cups", count: 3.5, text: "bread flour"}
+3: {measurment: "tbsp", count: 2, text: "olive oil"}
+4: {measurment: "tsps", count: 2, text: "salt"}
+5: {measurment: "tsp", count: 1, text: "sugar"}
+6: {text: "olive oil"}
+7: {text: "cornmeal"}
+8: {text: "tomato sauce"}
+9: {text: "mozzarella or parmesan cheese, shredded"}
+10: {text: "feta cheese"}
+11: {text: "mushrooms, thinly sliced"}
+12: {text: "bell peppers, stems and seeds removed, thinly sliced"}
+13: {text: "italian sausage, cooked ahead"}
+14: {text: "chopped fresh basil"}
+15: {text: "pesto"}
+16: {text: "pepperoni, thinly sliced"}
+17: {text: "onions, thinly sliced"}
+18: {text: "sliced ham"}
+19: {text: "a pizza stone, highly recommended if you want your pizza dough to be crusty"}
+20: {text: "a pizza peel or a flat baking sheet"}
+21: {text: "a pizza wheel for cutting the pizza, not required, but easier to deal with than a knife"}
+length: 22
+__proto__: Array(0)
+isLiked: false
+publisher: "Simply Recipes"
+publisher_url: "http://simplyrecipes.com"
+recipe_id: "36453"
+servings: 2
+social_rank: 99.99999998833789
+source_url: "http://www.simplyrecipes.com/recipes/homemade_pizza/"
+title: "Homemade Pizza"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35626", ingredients: Array(10), source_url: "http://www.closetcooking.com/2012/08/taco-quesadilla-pizza.html", recipe_id: "35626", …}
+cookingTime: 50
+f2f_url: "http://food2fork.com/view/35626"
+image_url: "http://static.food2fork.com/Taco2BQuesadilla2BPizza2B5002B4417a4755e35.jpg"
+ingredients: Array(10)
+0: {measurment: "lb", count: 0.5, text: "ground beef"}
+1: {measurment: "tbsp", count: 1, text: "homemade taco seasoning or 1/2 store bought packet"}
+2: {measurment: "cup", count: 0.25, text: "water"}
+3: {count: 4, text: "tortillas"}
+4: {measurment: "cups", count: 2, text: "cheese such as cheddar and/or jack, shredded"}
+5: {measurment: "cup", count: 0.5, text: "refried beans"}
+6: {measurment: "cup", count: 0.75, text: "salsa"}
+7: {count: 1, text: "tomato, diced"}
+8: {measurment: "tbsps", count: 2, text: "black olives, sliced"}
+9: {count: 4, text: "green onions, sliced"}
+length: 10
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35626"
+servings: 2
+social_rank: 99.99999998319973
+source_url: "http://www.closetcooking.com/2012/08/taco-quesadilla-pizza.html"
+title: "Taco Quesadilla Pizzas"
+__proto__: Object
+
+
+{publisher: "All Recipes", f2f_url: "http://food2fork.com/view/17796", ingredients: Array(6), source_url: "http://allrecipes.com/Recipe/Jays-Signature-Pizza-Crust/Detail.aspx", recipe_id: "17796", …}
+cookingTime: 30
+f2f_url: "http://food2fork.com/view/17796"
+image_url: "http://static.food2fork.com/237891b5e4.jpg"
+ingredients: Array(6)
+0: {measurment: "tsps", count: 2.25, text: "active dry yeast"}
+1: {measurment: "tsp", count: 0.5, text: "brown sugar"}
+2: {measurment: "cups", count: 1.5, text: "warm water"}
+3: {measurment: "tsp", count: 1, text: "salt"}
+4: {measurment: "tbsps", count: 2, text: "olive oil"}
+5: {measurment: "cups", count: "3.333", text: "all-purpose flour"}
+length: 6
+__proto__: Array(0)
+isLiked: false
+publisher: "All Recipes"
+publisher_url: "http://allrecipes.com"
+recipe_id: "17796"
+servings: 2
+social_rank: 99.99999997246182
+source_url: "http://allrecipes.com/Recipe/Jays-Signature-Pizza-Crust/Detail.aspx"
+title: "Jay’s Signature Pizza Crust"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35097", ingredients: Array(7), source_url: "http://www.closetcooking.com/2012/07/avocado-breakfast-pizza-with-fried-egg.html", recipe_id: "35097", …}
+cookingTime: 35
+f2f_url: "http://food2fork.com/view/35097"
+image_url: "http://static.food2fork.com/Avocado2Band2BFried2BEgg2BBreakfast2BPizza2B5002B296294dcea8a.jpg"
+ingredients: Array(7)
+0: {measurment: "cup", count: 0.5, text: "avocado, mashed"}
+1: {count: 0.5, text: "lime, juice"}
+2: {text: "salt and pepper to taste"}
+3: {count: 1, text: "pita, lightly toasted"}
+4: {count: 1, text: "egg, fried"}
+5: {count: 1, text: "strip bacon, cut into 1 inch sliced, fried and draind"}
+6: {measurment: "tbsp", count: 1, text: "queso fresco, crumbled"}
+length: 7
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35097"
+servings: 2
+social_rank: 99.99999990783806
+source_url: "http://www.closetcooking.com/2012/07/avocado-breakfast-pizza-with-fried-egg.html"
+title: "Avocado Breakfast Pizza with Fried Egg"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/46895", ingredients: Array(8), source_url: "http://thepioneerwoman.com/cooking/2012/10/pepperoni-pizza-burgers/", recipe_id: "46895", …}
+cookingTime: 40
+f2f_url: "http://food2fork.com/view/46895"
+image_url: "http://static.food2fork.com/pizzaburgera5bd.jpg"
+ingredients: Array(8)
+0: {measurment: "lb", count: 1.5, text: "ground beef"}
+1: {measurment: "lb", count: 0.5, text: "italian sausage"}
+2: {measurment: "tsp", count: 0.5, text: "italian seasoning"}
+3: {count: 8, text: "slices mozzarella or provolone cheese"}
+4: {text: "pepperoni slices"}
+5: {measurment: "tbsps", count: 8, text: "jarred marinara sauce"}
+6: {text: "grated parmesan cheese"}
+7: {count: 4, text: "whole kaiser rolls or good hamburger buns"}
+length: 8
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "46895"
+servings: 2
+social_rank: 99.99999990525365
+source_url: "http://thepioneerwoman.com/cooking/2012/10/pepperoni-pizza-burgers/"
+title: "Pepperoni Pizza Burgers"
+__proto__: Object
+
+
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35635", ingredients: Array(11), source_url: "http://www.closetcooking.com/2012/02/thai-chicken-pizza-with-sweet-chili.html", recipe_id: "35635", …}
+cookingTime: 55
+f2f_url: "http://food2fork.com/view/35635"
+image_url: "http://static.food2fork.com/Thai2BChicken2BPizza2Bwith2BSweet2BChili2BSauce2B5002B435581bcf578.jpg"
+ingredients: Array(11)
+0: {count: 1, text: "pizza dough"}
+1: {measurment: "cup", count: 0.5, text: "sweet chili sauce"}
+2: {measurment: "cup", count: 1, text: "cooked chicken, cut bite sized pieces"}
+3: {count: 0.5, text: "red bell pepper, sliced"}
+4: {count: 1, text: "carrot, julienned"}
+5: {count: 1, text: "handful bean sprouts"}
+6: {count: 2, text: "green onions, sliced"}
+7: {measurment: "cup", count: 1, text: "mozzarella cheese, shredded"}
+8: {count: 1, text: "handful roasted peanuts, chopped"}
+9: {count: 1, text: "handful basil, chopped"}
+10: {count: 1, text: "handful cilantro, chopped"}
+length: 11
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35635"
+servings: 2
+social_rank: 99.99999990065892
+source_url: "http://www.closetcooking.com/2012/02/thai-chicken-pizza-with-sweet-chili.html"
+title: "Thai Chicken Pizza with Sweet Chili Sauce"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/47000", ingredients: Array(16), source_url: "http://thepioneerwoman.com/cooking/2011/09/steakhouse-pizza/", recipe_id: "47000", …}
+cookingTime: 80
+f2f_url: "http://food2fork.com/view/47000"
+image_url: "http://static.food2fork.com/steakhousepizza0b87.jpg"
+ingredients: Array(16)
+0: {measurment: "tsp", count: 1, text: "active dry yeast"}
+1: {measurment: "cups", count: 0.75, text: "warm water"}
+2: {measurment: "cups", count: 2, text: "all-purpose flour"}
+3: {measurment: "tsps", count: 0.75, text: "kosher salt"}
+4: {measurment: "tbsps", count: 3, text: "olive oil"}
+5: {count: 1, text: "whole recipe pizza crust"}
+6: {count: 1, text: "whole skirt steak or flank steak"}
+7: {text: "salt and pepper, to taste"}
+8: {count: 2, text: "whole red onions, sliced thin"}
+9: {measurment: "tbsps", count: 3, text: "butter"}
+10: {measurment: "tbsps", count: 4, text: "balsamic vinegar"}
+11: {measurment: "tsp", count: 0.5, text: "worcestershire sauce"}
+12: {measurment: "cups", count: 2, text: "marinara sauce"}
+13: {measurment: "oz", count: 12, text: ", weight fresh mozzarella cheese, sliced thin"}
+14: {text: "shaved parmesan cheese"}
+15: {measurment: "cup", count: 0.5, text: "good steak sauce"}
+length: 16
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "47000"
+servings: 2
+social_rank: 99.99999981149679
+source_url: "http://thepioneerwoman.com/cooking/2011/09/steakhouse-pizza/"
+title: "One Basic Pizza Crust"
+__proto__: Object
+
+
+{publisher: "Two Peas and Their Pod", f2f_url: "http://food2fork.com/view/54491", ingredients: Array(16), source_url: "http://www.twopeasandtheirpod.com/peach-basil-mozzarella-balsamic-pizza/", recipe_id: "54491", …}
+cookingTime: 80
+f2f_url: "http://food2fork.com/view/54491"
+image_url: "http://static.food2fork.com/peachbasilpizza6c7de.jpg"
+ingredients: Array(16)
+0: {text: "for the pizza dough:"}
+1: {measurment: "tsps", count: 2.25, text: "rapid rise yeast"}
+2: {measurment: "cup", count: 1, text: "warm water"}
+3: {text: "pinch of sugar"}
+4: {measurment: "cups", count: 1.75, text: "semolina flour"}
+5: {measurment: "cups", count: 1.75, text: "all-purpose flour"}
+6: {measurment: "tsp", count: 1, text: "salt"}
+7: {measurment: "tbsp", count: 1, text: "olive oil"}
+8: {text: "corn meal-for spreading on pizza peel"}
+9: {text: "for the balsamic reduction:"}
+10: {measurment: "cup", count: 1, text: "balsamic vinegar"}
+11: {text: "pizza toppings:"}
+12: {measurment: "tbsps", count: 2, text: "olive oil"}
+13: {measurment: "oz", count: 8, text: "fresh mozzarella-sliced"}
+14: {count: 4, text: "peaches-thinly sliced"}
+15: {measurment: "cup", count: 0.5, text: "freshly chopped basil"}
+length: 16
+__proto__: Array(0)
+isLiked: false
+publisher: "Two Peas and Their Pod"
+publisher_url: "http://www.twopeasandtheirpod.com"
+recipe_id: "54491"
+servings: 2
+social_rank: 99.99999980232263
+source_url: "http://www.twopeasandtheirpod.com/peach-basil-mozzarella-balsamic-pizza/"
+title: "Peach, Basil, Mozzarella, & Balsamic Pizza"
+__proto__: Object
+
+
+{publisher: "Real Simple", f2f_url: "http://food2fork.com/view/38812", ingredients: Array(2), source_url: "http://www.realsimple.com/food-recipes/browse-all-…glish-muffin-egg-pizzas-10000000663044/index.html", recipe_id: "38812", …}
+cookingTime: 10
+f2f_url: "http://food2fork.com/view/38812"
+image_url: "http://static.food2fork.com/pizza_300d938bd58.jpg"
+ingredients: Array(2)
+0: {count: 4, text: "english muffins"}
+1: {count: 2, text: "olive oil"}
+length: 2
+__proto__: Array(0)
+isLiked: false
+publisher: "Real Simple"
+publisher_url: "http://realsimple.com"
+recipe_id: "38812"
+servings: 2
+social_rank: 99.99999978548222
+source_url: "http://www.realsimple.com/food-recipes/browse-all-recipes/english-muffin-egg-pizzas-10000000663044/index.html"
+title: "English-Muffin Egg Pizzas"
+__proto__: Object
+
+
+{publisher: "My Baking Addiction", f2f_url: "http://food2fork.com/view/dd21dd", ingredients: Array(5), source_url: "http://www.mybakingaddiction.com/no-knead-pizza-dough-recipe/", recipe_id: "dd21dd", …}
+cookingTime: 25
+f2f_url: "http://food2fork.com/view/dd21dd"
+image_url: "http://static.food2fork.com/PizzaDough1of12edit5779.jpg"
+ingredients: Array(5)
+0: {measurment: "cups", count: 2.75, text: "lukewarm water"}
+1: {measurment: "tbsp", count: 1.5, text: "granulated yeast"}
+2: {measurment: "tbsps", count: 1.5, text: "kosher salt"}
+3: {measurment: "tbsp", count: 1, text: "sugar"}
+4: {measurment: "cup", count: 0.25, text: "extra virgin olive oil"}
+length: 5
+__proto__: Array(0)
+isLiked: false
+publisher: "My Baking Addiction"
+publisher_url: "http://www.mybakingaddiction.com"
+recipe_id: "dd21dd"
+servings: 2
+social_rank: 99.9999995838859
+source_url: "http://www.mybakingaddiction.com/no-knead-pizza-dough-recipe/"
+title: "Simple No Knead Pizza Dough"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/47011", ingredients: Array(23), source_url: "http://thepioneerwoman.com/cooking/2011/07/grilled-vegetable-pizza/", recipe_id: "47011", …}
+cookingTime: 115
+f2f_url: "http://food2fork.com/view/47011"
+image_url: "http://static.food2fork.com/grilledveggie79bd.jpg"
+ingredients: Array(23)
+0: {text: "pizza crust"}
+1: {measurment: "tsp", count: 0.5, text: "active dry yeast"}
+2: {measurment: "cups", count: 0.75, text: "warm water"}
+3: {measurment: "cups", count: 2, text: "all-purpose flour"}
+4: {measurment: "tsp", count: 0.5, text: "kosher salt"}
+5: {measurment: "tbsps", count: 3, text: "olive oil"}
+6: {text: "pesto"}
+7: {measurment: "cups", count: 0.75, text: "fresh basil leaves"}
+8: {measurment: "cup", count: 0.5, text: "grated parmesan cheese"}
+9: {measurment: "tbsps", count: 2, text: "pine nuts"}
+10: {count: 2, text: "cloves garlic, peeled"}
+11: {text: "salt and pepper, to taste"}
+12: {measurment: "cup", count: "0.333", text: "extra virgin olive oil"}
+13: {text: "toppings:"}
+14: {count: 2, text: "whole zucchini, cut in diagonal slices"}
+15: {count: 2, text: "whole summer squash, cut in diagonal slices"}
+16: {text: "olive oil for brushing"}
+17: {count: 1, text: "whole yellow bell pepper"}
+18: {count: 1, text: "whole red bell pepper"}
+19: {measurment: "oz", count: 12, text: ", weight fresh mozzarella, sliced"}
+20: {measurment: "oz", count: 4, text: ", weight goat cheese"}
+21: {text: "extra basil leaves, for garnish"}
+22: {text: "grated or shaved parmesan cheese, for sprinkling"}
+length: 23
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "47011"
+servings: 2
+social_rank: 99.99999947603048
+source_url: "http://thepioneerwoman.com/cooking/2011/07/grilled-vegetable-pizza/"
+title: "Grilled Veggie Pizza"
+__proto__: Object
+
+
+{publisher: "My Baking Addiction", f2f_url: "http://food2fork.com/view/0fb8f4", ingredients: Array(7), source_url: "http://www.mybakingaddiction.com/spicy-chicken-and-pepper-jack-pizza-recipe/", recipe_id: "0fb8f4", …}
+cookingTime: 35
+f2f_url: "http://food2fork.com/view/0fb8f4"
+image_url: "http://static.food2fork.com/FlatBread21of1a180.jpg"
+ingredients: Array(7)
+0: {measurment: "tbsp", count: 1, text: ". canola or olive oil"}
+1: {measurment: "cup", count: 0.5, text: "chopped sweet onion"}
+2: {measurment: "cups", count: 3, text: "diced fresh red, yellow and green bell peppers"}
+3: {count: 1, text: "tube refrigerated pizza dough (i used 1lb of homemade crust)"}
+4: {measurment: "cup", count: 0.5, text: "salsa"}
+5: {measurment: "cups", count: 2, text: "sargento chefstyle shredded pepper jack cheese"}
+6: {text: "chopped cilantro or dried oregano"}
+length: 7
+__proto__: Array(0)
+isLiked: false
+publisher: "My Baking Addiction"
+publisher_url: "http://www.mybakingaddiction.com"
+recipe_id: "0fb8f4"
+servings: 2
+social_rank: 99.99999927351223
+source_url: "http://www.mybakingaddiction.com/spicy-chicken-and-pepper-jack-pizza-recipe/"
+title: "Spicy Chicken and Pepper Jack Pizza"
+__proto__: Object
+
+
+{publisher: "All Recipes", f2f_url: "http://food2fork.com/view/12913", ingredients: Array(14), source_url: "http://allrecipes.com/Recipe/Exquisite-Pizza-Sauce/Detail.aspx", recipe_id: "12913", …}
+cookingTime: 70
+f2f_url: "http://food2fork.com/view/12913"
+image_url: "http://static.food2fork.com/23868217b6.jpg"
+ingredients: Array(14)
+0: {count: 1, text: "can tomato paste"}
+1: {measurment: "oz", count: 6, text: "fluid  warm water"}
+2: {measurment: "tbsps", count: 3, text: "grated parmesan cheese"}
+3: {measurment: "tsp", count: 1, text: "minced garlic"}
+4: {measurment: "tbsps", count: 2, text: "honey"}
+5: {measurment: "tsp", count: 1, text: "anchovy paste"}
+6: {measurment: "tsp", count: 0.75, text: "onion powder"}
+7: {measurment: "tsp", count: 0.25, text: "dried oregano"}
+8: {measurment: "tsp", count: 0.25, text: "dried marjoram"}
+9: {measurment: "tsp", count: 0.25, text: "dried basil"}
+10: {measurment: "tsp", count: 0.25, text: "ground black pepper"}
+11: {measurment: "tsp", count: 0.125, text: "cayenne pepper"}
+12: {measurment: "tsp", count: 0.125, text: "dried red pepper flakes"}
+13: {text: "salt to taste"}
+length: 14
+__proto__: Array(0)
+isLiked: false
+publisher: "All Recipes"
+publisher_url: "http://allrecipes.com"
+recipe_id: "12913"
+servings: 2
+social_rank: 99.99999884376517
+source_url: "http://allrecipes.com/Recipe/Exquisite-Pizza-Sauce/Detail.aspx"
+title: "Exquisite Pizza Sauce"
+__proto__: Object
+
+
+{publisher: "Simply Recipes", f2f_url: "http://food2fork.com/view/36476", ingredients: Array(4), source_url: "http://www.simplyrecipes.com/recipes/how_to_grill_pizza/", recipe_id: "36476", …}
+cookingTime: 20
+f2f_url: "http://food2fork.com/view/36476"
+image_url: "http://static.food2fork.com/howtogrillpizzad300x20086a60e1b.jpg"
+ingredients: Array(4)
+0: {text: "pizza dough"}
+1: {text: "olive oil"}
+2: {text: "standard toppings of tomato sauce, herbs, cheese ,… sliced onions, tomatoes, mushrooms, or pepperoni"}
+3: {text: "some flour or corn meal for dusting the cookie sheet or pizza peel"}
+length: 4
+__proto__: Array(0)
+isLiked: false
+publisher: "Simply Recipes"
+publisher_url: "http://simplyrecipes.com"
+recipe_id: "36476"
+servings: 2
+social_rank: 99.99999704095504
+source_url: "http://www.simplyrecipes.com/recipes/how_to_grill_pizza/"
+title: "How to Grill Pizza"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/47161", ingredients: Array(15), source_url: "http://thepioneerwoman.com/cooking/2010/02/my-favorite-pizza/", recipe_id: "47161", …}
+cookingTime: 75
+f2f_url: "http://food2fork.com/view/47161"
+image_url: "http://static.food2fork.com/4364270576_302751a2a4f3c1.jpg"
+ingredients: Array(15)
+0: {text: "for the crust :"}
+1: {measurment: "tsp", count: 1, text: "active dry or instant yeast"}
+2: {measurment: "cups", count: 4, text: "all-purpose flour"}
+3: {measurment: "tsp", count: 1, text: "kosher salt"}
+4: {measurment: "cup", count: "0.333", text: "extra virgin olive oil"}
+5: {text: "_____"}
+6: {text: "for the pizza:"}
+7: {count: 1, text: "whole large eggplant"}
+8: {text: "kosher salt, for sprinkling"}
+9: {count: 1, text: "pint grape tomatoes"}
+10: {count: 2, text: "cloves garlic, minced"}
+11: {measurment: "oz", count: 8, text: ", weight fresh mozzarella cheese, sliced very thin"}
+12: {measurment: "cup", count: 0.5, text: "freshly grated parmesan cheese"}
+13: {text: "extra virgin olive oil for drizzling"}
+14: {text: "freshly ground black pepper"}
+length: 15
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "47161"
+servings: 2
+social_rank: 99.99999689667648
+source_url: "http://thepioneerwoman.com/cooking/2010/02/my-favorite-pizza/"
+title: "PW’s Favorite Pizza"
+__proto__: Object
+
+
+{publisher: "My Baking Addiction", f2f_url: "http://food2fork.com/view/a723e8", ingredients: Array(6), source_url: "http://www.mybakingaddiction.com/barbecue-chicken-pizza-recipe/", recipe_id: "a723e8", …}
+cookingTime: 30
+f2f_url: "http://food2fork.com/view/a723e8"
+image_url: "http://static.food2fork.com/BBQChickenPizza3e2b.jpg"
+ingredients: Array(6)
+0: {count: 1, text: "store bought pizza crust or refrigerated crust"}
+1: {measurment: "cup", count: 0.5, text: "barbecue sauce"}
+2: {measurment: "cup", count: 1, text: "cooked and shredded chicken"}
+3: {measurment: "cup", count: 0.5, text: "thinly sliced red onion"}
+4: {count: 1, text: "orange bell pepper; diced"}
+5: {measurment: "cups", count: 1.75, text: "sargento monterey jack shredded cheese"}
+length: 6
+__proto__: Array(0)
+isLiked: false
+publisher: "My Baking Addiction"
+publisher_url: "http://www.mybakingaddiction.com"
+recipe_id: "a723e8"
+servings: 2
+social_rank: 99.9999968917598
+source_url: "http://www.mybakingaddiction.com/barbecue-chicken-pizza-recipe/"
+title: "Barbecue Chicken Pizza"
+__proto__: Object
+
+
+{publisher: "Two Peas and Their Pod", f2f_url: "http://food2fork.com/view/54388", ingredients: Array(12), source_url: "http://www.twopeasandtheirpod.com/avocado-pita-pizza-with-cilantro-sauce/", recipe_id: "54388", …}
+cookingTime: 60
+f2f_url: "http://food2fork.com/view/54388"
+image_url: "http://static.food2fork.com/avocadopizzawithcilantrosauce4bf5.jpg"
+ingredients: Array(12)
+0: {text: "to make the cilantro sauce:"}
+1: {measurment: "cup", count: 1, text: "chopped fresh cilantro"}
+2: {count: 1, text: "large garlic clove, minced"}
+3: {measurment: "tbsp", count: 1, text: "chopped green onion"}
+4: {measurment: "tbsp", count: 1, text: "minced and seeded jalapeño pepper"}
+5: {measurment: "tbsp", count: 1, text: "fresh lime juice"}
+6: {measurment: "cup", count: 0.25, text: "extra-virgin olive oil"}
+7: {text: "salt and pepper, to taste"}
+8: {text: "for the pizza:"}
+9: {count: 2, text: "pieces whole wheat pita bread"}
+10: {measurment: "cup", count: 0.5, text: "shredded mozzarella cheese"}
+11: {count: 1, text: "large avocado, peeled, pitted, and sliced"}
+length: 12
+__proto__: Array(0)
+isLiked: false
+publisher: "Two Peas and Their Pod"
+publisher_url: "http://www.twopeasandtheirpod.com"
+recipe_id: "54388"
+servings: 2
+social_rank: 99.99999665701256
+source_url: "http://www.twopeasandtheirpod.com/avocado-pita-pizza-with-cilantro-sauce/"
+title: "Avocado Pita Pizza with Cilantro Sauce"
+__proto__: Object
+
+ 
+{publisher: "BBC Good Food", f2f_url: "http://food2fork.com/view/cb13dd", ingredients: Array(11), source_url: "http://www.bbcgoodfood.com/recipes/4683/pizza-margherita-in-4-easy-steps", recipe_id: "cb13dd", …}
+cookingTime: 55
+f2f_url: "http://food2fork.com/view/cb13dd"
+image_url: "http://static.food2fork.com/4683_MEDIUM544c.jpg"
+ingredients: Array(11)
+0: {text: "300g strong bread flour"}
+1: {text: "1 tsp instant yeast (from a sachet or a tub)"}
+2: {text: "1 tsp salt"}
+3: {text: "1 tbsp olive oil , plus extra for drizzling"}
+4: {text: "100ml passata"}
+5: {text: "handful fresh basil or 1 tsp dried"}
+6: {text: "1 garlic clove , crushed"}
+7: {text: "125g ball mozzarella , sliced"}
+8: {text: "handful grated or shaved parmesan"}
+9: {text: "handful cherry tomatoes , halved"}
+10: {text: "handful basil leaves (optional)"}
+length: 11
+__proto__: Array(0)
+isLiked: false
+publisher: "BBC Good Food"
+publisher_url: "http://www.bbcgoodfood.com"
+recipe_id: "cb13dd"
+servings: 2
+social_rank: 99.99999624664413
+source_url: "http://www.bbcgoodfood.com/recipes/4683/pizza-margherita-in-4-easy-steps"
+title: "Pizza margherita in 4 easy steps"
+__proto__: Object
+
+
+{publisher: "What's Gaby Cooking", f2f_url: "http://food2fork.com/view/ead4e0", ingredients: Array(28), source_url: "http://whatsgabycooking.com/pizza-monkey-bread/", recipe_id: "ead4e0", …}
+cookingTime: 140
+f2f_url: "http://food2fork.com/view/ead4e0"
+image_url: "http://static.food2fork.com/PizzaMonkeyBread67f8.jpg"
+ingredients: Array(28)
+0: {measurment: "tsp", count: 2.25, text: "active dry yeast"}
+1: {measurment: "cup", count: 1, text: "warm water"}
+2: {measurment: "tsp", count: 1, text: "sugar"}
+3: {measurment: "cups", count: 2, text: "bread flour"}
+4: {measurment: "cup", count: 1, text: "ap flour"}
+5: {measurment: "tsp", count: 2, text: "salt"}
+6: {measurment: "cup", count: 0.5, text: "butter, melted"}
+7: {measurment: "cup", count: "0.667", text: "pecorino romano cheese, grated"}
+8: {measurment: "tbsp", count: 3, text: "fresh parsley, chopped"}
+9: {count: 5, text: "scallions, chopped"}
+10: {count: 10, text: "basil leaves, chopped"}
+11: {count: 5, text: "cloves garlic, minced"}
+12: {text: "salt and pepper"}
+13: {measurment: "cup", count: 1, text: "marinara or pizza sauce"}
+14: {measurment: "tsp", count: 2.25, text: "active dry yeast"}
+15: {measurment: "cup", count: 1, text: "warm water"}
+16: {measurment: "tsp", count: 1, text: "sugar"}
+17: {measurment: "cups", count: 2, text: "bread flour"}
+18: {measurment: "cup", count: 1, text: "ap flour"}
+19: {measurment: "tsp", count: 2, text: "salt"}
+20: {measurment: "cup", count: 0.5, text: "butter, melted"}
+21: {measurment: "cup", count: "0.667", text: "pecorino romano cheese, grated"}
+22: {measurment: "tbsp", count: 3, text: "fresh parsley, chopped"}
+23: {count: 5, text: "scallions, chopped"}
+24: {count: 10, text: "basil leaves, chopped"}
+25: {count: 5, text: "cloves garlic, minced"}
+26: {text: "salt and pepper"}
+27: {measurment: "cup", count: 1, text: "marinara or pizza sauce"}
+length: 28
+__proto__: Array(0)
+isLiked: false
+publisher: "What's Gaby Cooking"
+publisher_url: "http://whatsgabycooking.com"
+recipe_id: "ead4e0"
+servings: 2
+social_rank: 99.99999570141472
+source_url: "http://whatsgabycooking.com/pizza-monkey-bread/"
+title: "Pizza Monkey Bread"
+__proto__: Object
+
+
+{publisher: "The Pioneer Woman", f2f_url: "http://food2fork.com/view/46892", ingredients: Array(12), source_url: "http://thepioneerwoman.com/cooking/2012/10/supreme-pizza-burgers/", recipe_id: "46892", …}
+cookingTime: 60
+f2f_url: "http://food2fork.com/view/46892"
+image_url: "http://static.food2fork.com/burger53be.jpg"
+ingredients: Array(12)
+0: {measurment: "lb", count: 1.5, text: "ground beef"}
+1: {measurment: "lb", count: 0.5, text: "italian sausage"}
+2: {measurment: "tsp", count: 0.5, text: "italian seasoning"}
+3: {count: 8, text: "slices mozzarella or provolone cheese"}
+4: {text: "pepperoni slices"}
+5: {measurment: "tbsps", count: 8, text: "jarred marinara sauce, plus a little more"}
+6: {text: "grated parmesan cheese"}
+7: {count: 4, text: "whole kaiser rolls or good hamburger buns"}
+8: {text: "thinly sliced red onion"}
+9: {count: 1, text: "whole green bell pepper, sliced thick"}
+10: {text: "sliced black olives"}
+11: {text: "sliced mushrooms"}
+length: 12
+__proto__: Array(0)
+isLiked: false
+publisher: "The Pioneer Woman"
+publisher_url: "http://thepioneerwoman.com"
+recipe_id: "46892"
+servings: 2
+social_rank: 99.99999283988569
+source_url: "http://thepioneerwoman.com/cooking/2012/10/supreme-pizza-burgers/"
+title: "Supreme Pizza Burgers"
+__proto__: Object
+
+ 
+{publisher: "Closet Cooking", f2f_url: "http://food2fork.com/view/35128", ingredients: Array(11), source_url: "http://www.closetcooking.com/2012/07/balsamic-strawberry-and-chicken-pizza.html", recipe_id: "35128", …}
+cookingTime: 55
+f2f_url: "http://food2fork.com/view/35128"
+image_url: "http://static.food2fork.com/Strawberry2BBalsamic2BPizza2Bwith2BChicken252C2BSweet2BOnion2Band2BSmoked2BBacon2B5002B300939d125e2.jpg"
+ingredients: Array(11)
+0: {measurment: "cup", count: 0.25, text: "balsamic vinegar"}
+1: {measurment: "cup", count: 0.5, text: "strawberry preserves/jam"}
+2: {text: "sriracha to taste"}
+3: {measurment: "cup", count: 1, text: "cooked chicken, shredded or cut into bite sized pieces"}
+4: {measurment: "cups", count: 1.5, text: "mozzarella, shredded"}
+5: {measurment: "cup", count: 0.25, text: "parmigiano reggiano , grated"}
+6: {count: 1, text: "pizza dough"}
+7: {count: 4, text: "slices smoked bacon, cut into 1 inch pieces and cooked"}
+8: {measurment: "cup", count: 0.25, text: "sweet onion, sliced"}
+9: {measurment: "cup", count: 0.75, text: "strawberries, sliced"}
+10: {measurment: "cup", count: 0.25, text: "cilantro, torn"}
+length: 11
+__proto__: Array(0)
+isLiked: false
+publisher: "Closet Cooking"
+publisher_url: "http://closetcooking.com"
+recipe_id: "35128"
+servings: 2
+social_rank: 99.99998682928603
+source_url: "http://www.closetcooking.com/2012/07/balsamic-strawberry-and-chicken-pizza.html"
+title: "Balsamic Strawberry and Chicken Pizza with Sweet Onions and Smoked Bacon"
+__proto__: Object
